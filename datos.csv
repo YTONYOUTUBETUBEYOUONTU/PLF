@@ -1,16 +1,16 @@
-fecha,valor
-2024-01-01,15
-2024-01-02,8
-2024-01-03,20
-2024-01-04,5
-2024-01-05,12
-2024-01-06,30
-2024-01-07,25
-2024-01-08,18
-2024-01-09,22
-2024-01-10,9
-2024-01-11,14
-2024-01-12,28
-2024-01-13,7
-2024-01-14,10
-2024-01-15,35
+fecha,vendedor,region,producto,valor
+2024-01-01,Ana,Norte,Producto A,150
+2024-01-02,Carlos,Sur,Producto B,80
+2024-01-03,Ana,Este,Producto C,200
+2024-01-04,Pedro,Oeste,Producto A,50
+2024-01-05,Maria,Norte,Producto B,120
+2024-01-06,Carlos,Sur,Producto C,300
+2024-01-07,Pedro,Este,Producto A,250
+2024-01-08,Maria,Oeste,Producto B,180
+2024-01-09,Ana,Norte,Producto C,220
+2024-01-10,Pedro,Sur,Producto A,90
+2024-01-11,Carlos,Este,Producto B,140
+2024-01-12,Maria,Oeste,Producto C,280
+2024-01-13,Ana,Norte,Producto A,70
+2024-01-14,Pedro,Sur,Producto B,100
+2024-01-15,Maria,Este,Producto C,350
