@@ -59,4 +59,3 @@ product_sales = sales_by_product(data())
 plot_sales(vendedor_sales(), "Ventas por Vendedor")
 plot_sales(region_sales(), "Ventas por Región")
 plot_sales(product_sales(), "Ventas por Producto")
-
